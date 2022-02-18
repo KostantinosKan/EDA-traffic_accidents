@@ -21,4 +21,3 @@ Answering to the following questions:
 3. How many accidents per year? And what is the trend, increasing or decreasing?
 4. What are the most common weather conditions on the days of the accidents and how they affect the accidents?
 5. How many accidents have a severity level of 1, 2, 3 and 4?
->>>>>>> 90dd50392596fd1069a811690b12c059290f7337
