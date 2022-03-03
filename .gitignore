@@ -141,6 +141,7 @@ dmypy.json
 *.json
 *.xlsx
 *.txt
+*.zip
 
 # macos
 *.DS_Store
