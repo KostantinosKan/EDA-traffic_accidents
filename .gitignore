@@ -149,6 +149,11 @@ dmypy.json
 # windows
 *.thumbs.db
 
-# pictures
+# type of files
 *.png
 *.jpg
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
