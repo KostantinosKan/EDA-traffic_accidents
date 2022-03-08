@@ -908,13 +908,13 @@ def update_map(slider_range):
 
        # create the map
        usa_map = create_usa_map(df=df_updated)
-       usa_map.save(outfile="usa_states_map.html")
-       usa_map_source = open(file="usa_states_map.html", mode="r").read() 
+       # usa_map.save(outfile="usa_states_map.html")
+       # usa_map_source = open(file="usa_states_map.html", mode="r").read() 
        
        # create the indicator
        indicator = total_accidents_indicator(df=df_updated)
        
-       return usa_map_source, go.Figure(indicator)
+       return usa_map._repr_html_(), go.Figure(indicator)
        
 
 # Create callback to connect the slider and the radio buttons with the graphs
