@@ -153,10 +153,6 @@ dmypy.json
 *.png
 *.jpg
 *.cpg
-*.dbf
-*.prj
-*.shp
-*.shx
 *.html
 *.pem
 *.xml
