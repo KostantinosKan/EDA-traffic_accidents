@@ -150,7 +150,7 @@ dmypy.json
 *.thumbs.db
 
 # type of files
-*.png
+*.pngcclear
 *.jpg
 *.cpg
 *.html
